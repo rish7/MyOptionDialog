@@ -1,5 +1,5 @@
 #MyOptionDialog
-==============
+------------------
 
 Custom OptionDialog in Titanium using AndroidView only for Android demo
 
